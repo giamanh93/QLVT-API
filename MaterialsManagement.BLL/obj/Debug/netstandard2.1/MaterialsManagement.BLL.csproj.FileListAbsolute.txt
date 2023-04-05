@@ -1,0 +1,45 @@
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.BLL.deps.json
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.BLL.dll
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.BLL.pdb
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.dll
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.Model.dll
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.pdb
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.Model.pdb
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.csproj.AssemblyReference.cache
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.AssemblyInfoInputs.cache
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.AssemblyInfo.cs
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.csproj.CopyComplete
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.dll
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.pdb
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.BLL.deps.json
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.BLL.dll
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.BLL.pdb
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.dll
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.Model.dll
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.pdb
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.Model.pdb
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.AssemblyInfo.cs
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.csproj.CopyComplete
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.dll
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.pdb
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.BLL.deps.json
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.BLL.dll
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.BLL.pdb
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.dll
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.Model.dll
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.pdb
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\bin\Debug\netstandard2.1\MaterialsManagement.Model.pdb
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.csproj.AssemblyReference.cache
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.AssemblyInfoInputs.cache
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.AssemblyInfo.cs
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.csproj.CoreCompileInputs.cache
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.csproj.CopyComplete
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.dll
+E:\Dự án\QLVT-API\MaterialsManagement.BLL\obj\Debug\netstandard2.1\MaterialsManagement.BLL.pdb

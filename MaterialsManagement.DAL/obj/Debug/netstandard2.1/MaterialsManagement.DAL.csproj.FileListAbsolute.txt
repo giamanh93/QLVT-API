@@ -1,0 +1,39 @@
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.deps.json
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.dll
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.pdb
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.Model.dll
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.Model.pdb
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.AssemblyInfo.cs
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.csproj.CopyComplete
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.dll
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.pdb
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.deps.json
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.dll
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.pdb
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.Model.dll
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.Model.pdb
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.AssemblyInfo.cs
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.csproj.CopyComplete
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.dll
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.pdb
+E:\Dự án\QLVT-API\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.deps.json
+E:\Dự án\QLVT-API\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.dll
+E:\Dự án\QLVT-API\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.DAL.pdb
+E:\Dự án\QLVT-API\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.Model.dll
+E:\Dự án\QLVT-API\MaterialsManagement.DAL\bin\Debug\netstandard2.1\MaterialsManagement.Model.pdb
+E:\Dự án\QLVT-API\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.csproj.AssemblyReference.cache
+E:\Dự án\QLVT-API\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dự án\QLVT-API\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.AssemblyInfoInputs.cache
+E:\Dự án\QLVT-API\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.AssemblyInfo.cs
+E:\Dự án\QLVT-API\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.csproj.CoreCompileInputs.cache
+E:\Dự án\QLVT-API\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.csproj.CopyComplete
+E:\Dự án\QLVT-API\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.dll
+E:\Dự án\QLVT-API\MaterialsManagement.DAL\obj\Debug\netstandard2.1\MaterialsManagement.DAL.pdb

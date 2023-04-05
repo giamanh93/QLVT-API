@@ -1,0 +1,30 @@
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.Model\bin\Debug\netstandard2.1\MaterialsManagement.Model.deps.json
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.Model\bin\Debug\netstandard2.1\MaterialsManagement.Model.dll
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.Model\bin\Debug\netstandard2.1\MaterialsManagement.Model.pdb
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.csproj.AssemblyReference.cache
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.AssemblyInfoInputs.cache
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.AssemblyInfo.cs
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.dll
+C:\Users\AnhTT\source\repos\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.pdb
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.Model\bin\Debug\netstandard2.1\MaterialsManagement.Model.deps.json
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.Model\bin\Debug\netstandard2.1\MaterialsManagement.Model.dll
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.Model\bin\Debug\netstandard2.1\MaterialsManagement.Model.pdb
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.AssemblyInfo.cs
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.dll
+C:\Users\Administrator\Documents\MaterialsManagement\MaterialsManagement\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.pdb
+E:\Dự án\QLVT-API\MaterialsManagement.Model\bin\Debug\netstandard2.1\MaterialsManagement.Model.deps.json
+E:\Dự án\QLVT-API\MaterialsManagement.Model\bin\Debug\netstandard2.1\MaterialsManagement.Model.dll
+E:\Dự án\QLVT-API\MaterialsManagement.Model\bin\Debug\netstandard2.1\MaterialsManagement.Model.pdb
+E:\Dự án\QLVT-API\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.csproj.AssemblyReference.cache
+E:\Dự án\QLVT-API\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dự án\QLVT-API\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.AssemblyInfoInputs.cache
+E:\Dự án\QLVT-API\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.AssemblyInfo.cs
+E:\Dự án\QLVT-API\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.csproj.CoreCompileInputs.cache
+E:\Dự án\QLVT-API\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.dll
+E:\Dự án\QLVT-API\MaterialsManagement.Model\obj\Debug\netstandard2.1\MaterialsManagement.Model.pdb
