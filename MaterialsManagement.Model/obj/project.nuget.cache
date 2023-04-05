@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qRe07XYOnYNxCbvvcu/ePZrRPVK7EDWrc7f0gCFLuSzeSxFsSjT6bTV6iUXUq99p+WAO+ZbI6FIdsGBXnF1i1w==",
+  "dgSpecHash": "4p6n/advInkOT+ughBOrgYaIrPEYsHJB9X61Y8G6zsaEXWBkzVNs2ZzpU1mCwYldLjeEZb+KA0xgp72mdqON4g==",
   "success": true,
   "projectFilePath": "E:\\Dự án\\QLVT-API\\MaterialsManagement.Model\\MaterialsManagement.Model.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
   ],
   "logs": []
 }

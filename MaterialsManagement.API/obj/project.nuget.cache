@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ePBfO7VLNPQNbr+cNgYruDvJYDw8N/OYcWXpySSL92ZMcjHkqpdv4o2WiixY1Cd2ICwETINxRVik9nFrdpoVmw==",
+  "dgSpecHash": "/PI/yPE7kwMkrQC8HwCW6JQh3efqtIe9hF9bVIhoty4qCoVy2t75U1GsIOq2ps/NhqWMUrcv0dnmkyxmR5nkYQ==",
   "success": true,
   "projectFilePath": "E:\\Dự án\\QLVT-API\\MaterialsManagement.API\\MaterialsManagement.API.csproj",
   "expectedPackageFiles": [
@@ -41,7 +41,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",

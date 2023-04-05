@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FHK9jn5nEgs5IanztO/a2zW/8vPPzlwRbTAU5+TbXiI/RqP/ZWzMjp7Zs8rtdD+HGIDWBuUpat8M7UQn9Xb5xA==",
+  "dgSpecHash": "Aw63jFu0TQhua8QuHEj28X71uSDSHzyHg7CI0hqTXwUlYY2JGdzYlCELRQXfzqa7xDGr8SsDURH3PzOVsOUHUw==",
   "success": true,
   "projectFilePath": "E:\\Dự án\\QLVT-API\\MaterialsManagement.DAL\\MaterialsManagement.DAL.csproj",
   "expectedPackageFiles": [
@@ -26,7 +26,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",

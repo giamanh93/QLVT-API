@@ -21,7 +21,7 @@ RUN dotnet build "MaterialsManagement.API.csproj" -c Release -o /app/build
 
 FROM build AS publish
 RUN dotnet publish "MaterialsManagement.API.csproj" -c Release -o /app/publish /p:UseAppHost=false
-
+# Ensure we listen on any IP Address 
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
