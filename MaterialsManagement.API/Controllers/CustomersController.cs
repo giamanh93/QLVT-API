@@ -47,7 +47,7 @@ namespace MaterialsManagement.API.Controllers
             return Ok(customer);
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete]
         public async Task<IActionResult> Delete(int id)
         {
             var customer = await _customerService.DeleteByCusIdAsync(id);

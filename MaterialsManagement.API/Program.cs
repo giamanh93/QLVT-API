@@ -50,8 +50,9 @@ namespace MaterialsManagement.API
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-            app.UseSwagger();
-            app.UseSwaggerUI();
+            app.UseCors(b => b.AllowAnyOrigin()
+                            .AllowAnyHeader());
+          
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
